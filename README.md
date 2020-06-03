@@ -1,4 +1,4 @@
-## Projetos DS-ML-DL
+## Projetos DS, ML e DL
 
 Esse repositório contém meus projetos nas áreas de Data Science e Machine Learning e está dividido nas seguintes pastas:
 * **Datasets**: aqui estão os arquivos `.csv` (e outros formatos) que utilizo nos projetos
